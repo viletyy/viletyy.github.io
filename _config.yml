@@ -1,7 +1,7 @@
 # Site settings
 title: Viletyy Blog
 SEOTitle: Viletyy Blog
-header-img: img/image.jpeg
+header-img: img/home-bg.jpg
 email: yystopf@gmail.com
 description: "代码的世界 | Viletyy，Web Software Engineer | 这里是 @viletyy 的个人博客。"
 keyword: "Viletyy, @Viletyy，Web, 博客, 个人网站, 互联网, Go, Ruby, JavaScript, 前端, 后端"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     viletyy
+weibo_username:     3800502403
 zhihu_username:     viletyy
 github_username:    viletyy
-twitter_username:   viletyy
+# twitter_username:   viletyy
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -78,7 +78,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""
+sidebar-about-description: "viletyy, 全栈工程师"
 sidebar-avatar: /img/image.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
