@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "My Spacemacs Workflow"
+date:       2019-09-08 12:00:00
 subtitle: 'From Vim to Spacemacs'
 author: "Hux"
 header-style: text
