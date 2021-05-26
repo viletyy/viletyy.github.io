@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "git常用命令"
+title: "Git: 常用命令"
 date:  2018-03-08 10:32:00
 author: "Viletyy"
 header-style: text
 tags:
+  - Git
   - Shell
 ---
 

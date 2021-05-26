@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Ruby On Rails中gem Devise的使用"
+title: "Rails: Devise的使用"
 date:       2018-03-07 10:28:00
 author: "Viletyy"
 header-style: text
 tags:
-  - Ruby
   - Rails
-  - Gem
+  - 包
 ---
 
 [Devise](https://github.com/heartcombo/devise)是一套使用者认证(Authentication)套件，是Rails社群中最广为使用的一套。
