@@ -6,7 +6,6 @@ author: "Viletyy"
 header-style: text
 tags:
   - Golang
-  - 包
 ---
 通道可以被认为是Goroutine通信的管道。类似于管道中的水从一端到另一端的流动，数据可以从一端发送到另一端，通过通道接收。
 
