@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "开源世界旅行手册：GUI和CLI"
-date:  2019-12-21 10:28:00
+date:  2019-12-22 10:28:00
 author: "Viletyy"
 header-style: text
 tags:
