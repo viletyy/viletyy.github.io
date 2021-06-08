@@ -1,9 +1,3 @@
-<!--
- * @Date: 2021-06-06 23:15:41
- * @LastEditors: viletyy
- * @LastEditTime: 2021-06-06 23:16:24
- * @FilePath: /viletyy.github.io/_posts/2019-12-25-linux-guide-virus.md
--->
 ---
 layout: post
 title: "开源世界旅行手册：病毒"
