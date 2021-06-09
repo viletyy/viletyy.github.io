@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源世界旅行手册：GUI和CLI"
+title: "开源世界旅行手册：Unix缩写风格"
 date:  2019-12-22 10:28:00
 author: "Viletyy"
 header-style: text
@@ -287,3 +287,8 @@ Linux命令的选项繁复庞杂，让人眼花缭乱。不过这些选项往往
 **-z**
 
 - zip：启用压缩（bzip，tar，zcat，zip，cvs）
+------
+
+参考资料：
+
+- [开源世界旅行手册](https://i.linuxtoy.org/docs/guide/)

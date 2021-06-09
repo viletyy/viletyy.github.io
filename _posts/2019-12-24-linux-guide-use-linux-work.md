@@ -480,3 +480,9 @@ QQ, ICQ: 我没有 QQ（已经有了QQ for Linux）或 ICQ。不过你可以用 
 看 Word 文档。请 Word 用户把文档全部转为 PDF 或 PS 再给我，文档里没有特殊的格式干脆就用文本吧，何必那么麻烦。以前很奇怪的是，通知里本来没有什么特殊的格式居然还要发doc附件的email。现在好了，我们系发通知都用文本，PDF，甚至图片了 :P
 
 其它程序：还有很多我需要用而你不一定用得着的。比如，Doctor Scheme, Scheme48, Scsh, kawa...这些程序只有 Doctor Scheme 有 Windows版本。还有很多幕后工作但是你一般不察觉的：xinetd, telnetd, sshd, crond, atd, lpd, ... 他们都比 Windows 的对应者强的多，或者根本没有对应者。
+
+------
+
+参考资料：
+
+- [开源世界旅行手册](https://i.linuxtoy.org/docs/guide/)
