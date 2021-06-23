@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "数据结构: 绪论"
+title: "大话数据结构: 绪论"
 date:  2020-06-04 10:01:08
 author: "Viletyy"
 header-style: text
