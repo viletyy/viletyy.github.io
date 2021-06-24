@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大话数据结构：线性表的链式存储结构——循环链表"
+title: "大话数据结构：线性表的循环链式存储结构"
 date:  2020-06-11 10:01:08
 author: "Viletyy"
 header-style: text

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "大话数据结构: 线性表的静态链表存储结构"
-date:  2020-06-10 10:01:08
+date:  2020-06-11 10:01:08
 author: "Viletyy"
 header-style: text
 tags:
