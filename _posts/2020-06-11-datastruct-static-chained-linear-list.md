@@ -15,7 +15,7 @@ tags:
 ### 线性表的静态链表存储结构
 
 ```c
-/*线性表的金泰链表存储结构*/
+/*线性表的静态链表存储结构*/
 #define MAXSIZE 1000 /*假设链表的最大长度是1000*/
 typedef struct 
 {
@@ -40,7 +40,7 @@ Status InitList(StaticLinkList space)
 
 ### 静态链表结点的申请
 ```c
-/*若备用空间链表非空，则返回分配的结点下表，否则返回0*/
+/*若备用空间链表非空，则返回分配的结点下标，否则返回0*/
 int Malloc_SLL(StaticLinkList space)
 {
     int i = space[0].cur /*当前数组第一个元素的cur存的值*/

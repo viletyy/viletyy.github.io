@@ -1,9 +1,3 @@
-<!--
- * @Date: 2021-07-01 16:38:10
- * @LastEditors: viletyy
- * @LastEditTime: 2021-07-01 16:39:00
- * @FilePath: /viletyy.github.io/_posts/2020-01-01-linux-guide-software-management.md
--->
 ---
 layout: post
 title: "开源世界旅行手册：软件管理"
