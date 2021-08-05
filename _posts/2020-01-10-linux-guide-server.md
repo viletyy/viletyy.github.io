@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "开源世界旅行手册：Server"
+title: "开源世界旅行手册：服务器"
 date: 2020-01-10 10:28:00
 author: "Viletyy"
 header-style: text
