@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "开源世界旅行手册：Grub"
-date: 2020-01-08 10:28:00
+date: 2020-01-09 10:28:00
 author: "Viletyy"
 header-style: text
 tags:
