@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "开源世界旅行手册：Vim编辑器（一）"
-date: 2020-01-10 10:28:00
+date: 2020-01-11 10:28:00
 author: "Viletyy"
 header-style: text
 tags:
