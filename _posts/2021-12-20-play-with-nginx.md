@@ -743,4 +743,4 @@ location /test5 {
 
 参考资料：
 
-- [大话数据结构]()
+- [10个场景，基本会玩Nginx了！](https://juejin.cn/post/6965189842489589797#heading-12)
